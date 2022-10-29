@@ -1,0 +1,4 @@
+pathlib2
+torch
+requests
+wget
